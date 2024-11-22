@@ -24,17 +24,25 @@ The project is organized into sections to streamline analysis and highlight find
 📈 Key Findings
 ✅ Conclusion
 🔍 Analysis Dimensions
+
+
+
 🚛 Ship Mode
 Insights into sales distribution and profitability by different shipment methods.
+
 🧑‍🤝‍🧑 Customer Segments
 Analysis based on customer categories to identify sales and profit trends.
+
 🗺️ States
 Sales and profit distribution across different states.
 Memory-efficient solutions for analysis included.
+
 🌍 Regions
 Sales trends across geographical regions.
+
 📦 Sub-categories
 Detailed analysis of sales and profits for various product sub-categories.
+
 📈 Key Findings
 📉 Identified the least profitable shipping mode and product categories.
 📊 Provided recommendations to optimize sales strategies and maximize profits.
